@@ -1,8 +1,8 @@
 {
-  "name": "angular-phonecat",
-  "description": "A starter project for AngularJS",
+  "name": "cookie-jar",
+  "description": "Web developer resources directory",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-phonecat",
+  "homepage": "https://github.com/mandyyeung/cookie-jar",
   "license": "MIT",
   "dependencies": {
     "angular": "1.2.x",

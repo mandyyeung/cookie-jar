@@ -1,9 +1,16 @@
 {
+  "engines": {
+    "node": "0.10.22"
+  },
+  "dependencies": {
+    "logfmt": "~0.17.0",
+    "express": "~3.4.6"
+  },
   "version": "0.0.0",
   "private": true,
-  "name": "angular-phonecat",
-  "description": "A tutorial application for AngularJS",
-  "repository": "https://github.com/angular/angular-phonecat",
+  "name": "cookie-jar",
+  "description": "Web developer resources directory",
+  "repository": "https://github.com/mandyyeung/cookie-jar",
   "license": "MIT",
   "devDependencies": {
     "karma": "^0.12.16",
