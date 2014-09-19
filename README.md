@@ -16,4 +16,8 @@ To run this application:
 npm start
 ```
 
-Navigate to `http://localhost:8000` on your browser.
+Navigate to `http://localhost:8000/app` on your browser.
+
+## Screenshot
+
+![My first Angular.js application](http://imgur.com/c03ocxF)
