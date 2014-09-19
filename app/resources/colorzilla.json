@@ -1,0 +1,14 @@
+{
+    "stats": {
+        "what": "An eyedropper, color picker, gradient generator Chrome extension.",
+        "when": "Updated: April 13, 2014",
+        "who": "Colorzilla.com crew",
+        "where": "Chrome extension store",
+        "tags": "Chrome extension, free, color picker, developer tool"
+    },
+    "id": "colorzilla",
+    "images": [
+        "img/resources/colorzilla.png"
+    ],
+    "name": "ColorZilla"
+}

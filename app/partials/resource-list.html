@@ -1,0 +1,32 @@
+<header>
+>  A Web Resources Directory, built with Angular.js
+</header>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+      <input ng-model="query" placeholder="Search"><br>
+      Sort by:
+      <select ng-model="orderProp">
+        <option value="name">Alphabetical</option>
+        <option value="-r_id">Newer</option>
+        <option value="r_id">Older</option>
+      </select>
+        <img src="img/cookie-jar.jpg" alt="Cookie Jar - Web Resources Directory" class="logo">
+        <h3>Cookie Jar</h3>
+        <span>> Web Resources Directory</span>
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="resources">
+        <li ng-repeat="resource in resources | filter:query | orderBy:orderProp" class="thumbnail resource-listing">
+          <a href="#/resources/{{resource.id}}" rel="modal:open" class="thumb"><img ng-src="{{resource.imageUrl}}"></a>
+          <a href="#/resources/{{resource.id}}" rel="modal:open">{{resource.name}}</a>
+          <p>{{resource.snippet}}</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

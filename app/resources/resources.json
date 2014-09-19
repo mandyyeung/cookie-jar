@@ -1,0 +1,30 @@
+[
+    {
+        "r_id": 0,
+        "id": "unsplash",
+        "imageUrl": "img/resources/unsplash.jpg",
+        "name": "Unsplash",
+        "snippet": "Free high-resolution stock photos. 10 new photos every 10 days."
+    },
+    {
+        "r_id": 1,
+        "id": "colorzilla",
+        "imageUrl": "img/resources/colorzilla.png",
+        "name": "ColorZilla",
+        "snippet": "An eyedropper, color picker, gradient generator Chrome extension."
+    },
+    {
+        "r_id": 2,
+        "id": "epoch-js",
+        "imageUrl": "img/resources/epoch.png",
+        "name": "Epoch.js",
+        "snippet": "A general purpose real-time charting library for building beautiful, smooth, and high performance data visualizations."
+    },
+    {
+        "r_id": 3,
+        "id": "startbootstrap",
+        "imageUrl": "img/resources/startbootstrap.png",
+        "name": "StartBootstrap",
+        "snippet": "A collection of free to use, open source themes and templates for the Bootstrap framework."
+    }
+]

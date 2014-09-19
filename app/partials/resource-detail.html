@@ -1,0 +1,22 @@
+<header>
+  <a href="/app"><< Cookie Jar</a>
+</header>
+
+<div id="detail-content">
+  <h1>{{resource.name}}</h1>
+  <div class="resource-images">
+    <img ng-src="{{resource.images[0]}}" class="resource">
+  </div>
+  <div class="resource-details">
+    <h3>What/</h3>
+    <p>{{resource.stats.what}}</p>
+    <h3>When/</h3>
+    <p>{{resource.stats.when}}</p>
+    <h3>Who/</h3>
+    <p>{{resource.stats.who}}</p>
+    <h3>Where/</h3>
+    <p>{{resource.stats.where}}</p>
+    <h3>Tags/</h3>
+    <p>{{resource.stats.tags}}</p>
+  </div>
+</div>

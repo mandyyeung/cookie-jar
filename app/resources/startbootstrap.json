@@ -1,0 +1,14 @@
+{
+    "stats": {
+        "what": "A collection of free to use, open source themes and templates for the Bootstrap framework.",
+        "when": "Started in 2013",
+        "who": "Maintainted by Iron Summit Media Strategies",
+        "where": "http://startbootstrap.com/",
+        "tags": "Free, templates, themes, bootstrap"
+    },
+    "id": "startbootstrap",
+    "images": [
+        "img/resources/startbootstrap.png"
+    ],
+    "name": "StartBootstrap"
+}

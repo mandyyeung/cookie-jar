@@ -1,0 +1,14 @@
+{
+    "stats": {
+        "what": "A general purpose real-time charting library for building beautiful, smooth, and high performance data visualizations.",
+        "when": "Started in 2013",
+        "who": "@rsandor at Fastly",
+        "where": "http://fastly.github.io/epoch/",
+        "tags": "Free, data visualization, d3.js, charts, graphs, javascript library"
+    },
+    "id": "epoch-js",
+    "images": [
+        "img/resources/epoch.png"
+    ],
+    "name": "Epoch.js"
+}
