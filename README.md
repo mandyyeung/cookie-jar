@@ -20,4 +20,4 @@ Navigate to `http://localhost:8000/app` on your browser.
 
 ## Screenshot
 
-![My first Angular.js application](http://imgur.com/c03ocxF)
+![My first Angular.js application](http://imgur.com/c03ocxF.png)
