@@ -1,5 +1,5 @@
 <header>
-  <a href="/app"><< Cookie Jar</a>
+  <a href="/app/index.html"><< Cookie Jar</a>
 </header>
 
 <div id="detail-content">
@@ -15,7 +15,7 @@
     <h3>Who/</h3>
     <p>{{resource.stats.who}}</p>
     <h3>Where/</h3>
-    <p>{{resource.stats.where}}</p>
+    <p><a ng-href="{{resource.stats.where}}" target="_blank">{{resource.stats.where}}</a></p>
     <h3>Tags/</h3>
     <p>{{resource.stats.tags}}</p>
   </div>
